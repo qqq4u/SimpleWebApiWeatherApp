@@ -1,0 +1,13 @@
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\bin\Debug\ClientWinForms.exe.config
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\bin\Debug\ClientWinForms.exe
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\bin\Debug\ClientWinForms.pdb
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.csprojAssemblyReference.cache
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.FormMain.resources
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.Properties.Resources.resources
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.csproj.GenerateResource.cache
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.exe
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.pdb
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\PROGRAMMING\уроки\WeatherAppWebAPI\ClientWinForms\obj\Debug\ClientWinForms.csproj.CopyComplete
